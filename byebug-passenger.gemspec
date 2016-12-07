@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'byebug-passenger'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2016-12-07'
   s.summary     = 'A Ruby gem for debugging a Rails app running on Phusion Passenger.'
   s.description = 'A Ruby gem for debugging a Rails app running on Phusion Passenger.'
